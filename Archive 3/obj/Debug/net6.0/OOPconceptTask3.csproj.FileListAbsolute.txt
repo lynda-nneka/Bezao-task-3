@@ -1,0 +1,15 @@
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/bin/Debug/net6.0/OOPconceptTask3
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/bin/Debug/net6.0/OOPconceptTask3.deps.json
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/bin/Debug/net6.0/OOPconceptTask3.runtimeconfig.json
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/bin/Debug/net6.0/OOPconceptTask3.dll
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/bin/Debug/net6.0/OOPconceptTask3.pdb
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.csproj.AssemblyReference.cache
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.AssemblyInfoInputs.cache
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.AssemblyInfo.cs
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.csproj.CoreCompileInputs.cache
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.dll
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/refint/OOPconceptTask3.dll
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.pdb
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/OOPconceptTask3.genruntimeconfig.cache
+/Users/user/Projects/OOPconceptTask3/OOPconceptTask3/obj/Debug/net6.0/ref/OOPconceptTask3.dll
